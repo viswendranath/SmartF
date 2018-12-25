@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547282009023",
+    "firebase_url": "https://smartf-df906.firebaseio.com",
+    "project_id": "smartf-df906",
+    "storage_bucket": "smartf-df906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547282009023:android:99a28980937d7eec",
+        "android_client_info": {
+          "package_name": "com.example.bigbanng.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547282009023-1dcobbr8aj2j31d7ihof2rd03dpkrnr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bigbanng.myapplication",
+            "certificate_hash": "23ad994e0497882fe4babcddba6b467b54b7c401"
+          }
+        },
+        {
+          "client_id": "547282009023-h3sj10cqce5b21vpo5f3a7rr0p4iv4o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-4Bk0SoO85uGhItsDTwUIgXfIrPsHQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547282009023-h3sj10cqce5b21vpo5f3a7rr0p4iv4o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
